@@ -99,3 +99,8 @@ fabric.properties
 
 # Go workspace file
 go.work
+/.idea/focus-backend.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
