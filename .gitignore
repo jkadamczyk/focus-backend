@@ -8,6 +8,12 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/focus-backend.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/vcs.xml
+
 
 # AWS User-specific
 .idea/**/aws.xml
@@ -99,8 +105,3 @@ fabric.properties
 
 # Go workspace file
 go.work
-/.idea/focus-backend.iml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/inspectionProfiles/Project_Default.xml
-/.idea/vcs.xml
